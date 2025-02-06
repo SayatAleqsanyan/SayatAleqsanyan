@@ -71,7 +71,6 @@
 🐦 **Twitter:** [Twitter Profile](https://x.com/SayadAleksanyan)  
 📱 **Telegram:** [@SayatAleqsanyan](https://t.me/SayatAleqsanyan)  
 
-<a href="mailto:sayad.aleksanyan@mail.ru">sayad.aleksanyan@mail.ru</a>
 <!--
 🌐 **Portfolio:** [https://armen-dev.github.io](https://armen-dev.github.io)  
 📄 **CV:** [Download my CV](https://github.com/armen-dev/armen-dev.github.io/blob/main/CV.pdf)

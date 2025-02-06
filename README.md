@@ -42,7 +42,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SayatAleqsanyan&show_icons=true&theme=radical" width="48%" alt="GitHub Stats">
   
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SayatAleqsanyan" alt="GitHub Streak" /></a> 
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SayatAleqsanyan&layout=compact&theme=radical)
 </p>
 
 <p align="center">

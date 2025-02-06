@@ -20,7 +20,7 @@
 ---
 
 ## 🔹 Իմ մասին  
-- 🎨 **Frontend ծրագրավորող եմ**, ով սիրահարված է UI/UX դիզայնին  
+- 🎨 **Frontend ծրագրավորող եմ**, ով սիրահարված է UI/UX դիզայնին 
 - 💻 **Հմտություններ:** React, Next.js, JavaScript, Tailwind CSS 
 - 📚 **Նպատակ:** Ստեղծել արագ, մատչելի և user-friendly վեբ հավելվածներ  
 - 🌍 **Աշխատանքի որոնում եմ**՝ որպես **Junior Frontend Developer**  
@@ -73,7 +73,7 @@
 ---
 
 ## 📬 Կապ ինձ հետ  
-📱  **Phone:** [+374-98-73-30-06]()
+📱  **Phone:** [+374-98-73-30-06](tel:+37498733006)
 📩 **Email:** [sayad.aleksanyan0@gmail.com](mailto:sayad.aleksanyan0@gmail.com)  
 <!-- 🌐 **Portfolio:** [yourportfolio.com]()  -->
 💼 **LinkedIn:** [linkedin.com/in/саяд-алексанян](https://am.linkedin.com/in/%D1%81%D0%B0%D1%8F%D0%B4-%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D1%8F%D0%BD-96b558224?original_referer=https%3A%2F%2Fwww.linkedin.com%2F )

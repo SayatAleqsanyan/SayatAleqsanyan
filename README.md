@@ -53,7 +53,7 @@
 ## 📌 Վերջին նախագծերը  
 🔹 **[Portfolio Website]()** - Իմ անձնական պորտֆոլիոն (React, Tailwind CSS)  
 🔹 **[E-commerce UI](https://github.com/SayatAleqsanyan/BeeOnCode)** - Start 
-🔹 **[my-App](Full-featured Task Manager (React, TypeScript, Zustand))** - React start  
+🔹 **[my-App](https://github.com/SayatAleqsanyan/React)** - React start  
 
 ---
 

@@ -12,7 +12,7 @@
 ---
 
 ## 🔹 Իմ մասին  
-- 🎨 **Frontend ծրագրավորող եմ**, ով սիրահարված է UI/UX դիզայնին 
+- 🎨 **Frontend ծրագրավորող եմ**, ով sսիրում է զբաղվել UI/UX դիզայնով 
 - 💻 **Հմտություններ:** React, Next.js, JavaScript, Tailwind CSS 
 - 📚 **Նպատակ:** Ստեղծել արագ, մատչելի և user-friendly վեբ հավելվածներ  
 - 🌍 **Աշխատանքի որոնում եմ**՝ որպես **Junior Frontend Developer**  
@@ -70,6 +70,7 @@
 💼 **LinkedIn:** [linkedin.com/in/саяд-алексанян](https://am.linkedin.com/in/%D1%81%D0%B0%D1%8F%D0%B4-%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D1%8F%D0%BD-96b558224?original_referer=https%3A%2F%2Fwww.linkedin.com%2F )  
 🐦 **Twitter:** [Twitter Profile](https://x.com/SayadAleksanyan)  
 📱 **Telegram:** [@SayatAleqsanyan](https://t.me/SayatAleqsanyan)  
+
 <!--
 🌐 **Portfolio:** [https://armen-dev.github.io](https://armen-dev.github.io)  
 📄 **CV:** [Download my CV](https://github.com/armen-dev/armen-dev.github.io/blob/main/CV.pdf)

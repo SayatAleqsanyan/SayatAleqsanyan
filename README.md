@@ -42,7 +42,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SayatAleqsanyan&show_icons=true&theme=radical" width="48%" alt="GitHub Stats">
   
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SayatAleqsanyan" alt="GitHub Streak" /></a>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=SayatAleqsanyan)](https://git.io/streak-stats)
+
 </p>
 
 <p align="center">

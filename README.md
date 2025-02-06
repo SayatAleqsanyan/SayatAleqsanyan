@@ -51,8 +51,8 @@
 ---
 
 ## 📌 Վերջին նախագծերը  
-🔹 **[Portfolio Website]()** - Իմ անձնական պորտֆոլիոն (React, Tailwind CSS)  
-🔹 **[E-commerce UI](https://github.com/SayatAleqsanyan/BeeOnCode)** - Start 
+🔹 **[Portfolio Website]()** - Իմ անձնական պորտֆոլիոն (React, Tailwind CSS)   <br>
+🔹 **[E-commerce UI](https://github.com/SayatAleqsanyan/BeeOnCode)** - Start  <br>
 🔹 **[my-App](https://github.com/SayatAleqsanyan/React)** - React start  
 
 ---
@@ -65,10 +65,10 @@
 ---
 
 ## 📬 Կապ ինձ հետ  
-📱  **Phone:** [+374-98-73-30-06](tel:+37498733006)
-📩 **Email:** [sayad.aleksanyan0@gmail.com](mailto:sayad.aleksanyan0@gmail.com)  
+📱  **Phone:** [+374-98-73-30-06](tel:+37498733006)  <br>
+📩 **Email:** [sayad.aleksanyan0@gmail.com](mailto:sayad.aleksanyan0@gmail.com)   <br>
 <!-- 🌐 **Portfolio:** [yourportfolio.com]()  CV  --> 
-💼 **LinkedIn:** [linkedin.com/in/саяд-алексанян](https://am.linkedin.com/in/%D1%81%D0%B0%D1%8F%D0%B4-%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D1%8F%D0%BD-96b558224?original_referer=https%3A%2F%2Fwww.linkedin.com%2F )
+💼 **LinkedIn:** [linkedin.com/in/саяд-алексанян](https://am.linkedin.com/in/%D1%81%D0%B0%D1%8F%D0%B4-%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D1%8F%D0%BD-96b558224?original_referer=https%3A%2F%2Fwww.linkedin.com%2F )  
 
 ---
 

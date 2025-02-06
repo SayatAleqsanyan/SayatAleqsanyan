@@ -67,7 +67,7 @@
 
 ## 📬 Կապ ինձ հետ  
 📩 **Email:** [sayad.aleksanyan0@gmail.com](mailto:sayad.aleksanyan0@gmail.com)   
-🌐 **Portfolio:** [https://SayatAleqsanyan.github.io](https://SayatAleqsanyan.github.io)
+🌐 **Portfolio:** [https://SayatAleqsanyan.github.io](https://SayatAleqsanyan.github.io)                                                          
 💼 **LinkedIn:** [linkedin.com/in/саяд-алексанян](https://am.linkedin.com/in/%D1%81%D0%B0%D1%8F%D0%B4-%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D1%8F%D0%BD-96b558224?original_referer=https%3A%2F%2Fwww.linkedin.com%2F )  
 
 ---

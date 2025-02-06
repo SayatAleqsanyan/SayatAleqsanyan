@@ -41,7 +41,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SayatAleqsanyan&show_icons=true&theme=radical" width="48%" alt="GitHub Stats">
-  
+  <img src="https://streak-stats.demolab.com/?user=SayatAleqsanyan&theme=radical" width="48%" alt="GitHub Streak">
+
 </p>
 
 <p align="center">

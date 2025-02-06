@@ -69,7 +69,7 @@
 📩 **Email:** [sayad.aleksanyan0@gmail.com](mailto:sayad.aleksanyan0@gmail.com)                                                        
 💼 **LinkedIn:** [linkedin.com/in/саяд-алексанян](https://am.linkedin.com/in/%D1%81%D0%B0%D1%8F%D0%B4-%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D1%8F%D0%BD-96b558224?original_referer=https%3A%2F%2Fwww.linkedin.com%2F )  
 🐦 **Twitter:** [Twitter Profile](https://x.com/SayadAleksanyan)  
-📱 **Telegram:** [@SayatAleqsanyan](https://twitter.com/@SayatAleqsanyan)  
+📱 **Telegram:** [@SayatAleqsanyan](https://twitter.com/SayatAleqsanyan)  
 <!--
 🌐 **Portfolio:** [https://armen-dev.github.io](https://armen-dev.github.io)  
 📄 **CV:** [Download my CV](https://github.com/armen-dev/armen-dev.github.io/blob/main/CV.pdf)

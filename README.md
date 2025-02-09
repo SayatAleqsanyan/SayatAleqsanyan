@@ -53,8 +53,8 @@
 
 ## 📌 Վերջին նախագծերը  
 🔹 **[about me (CV)](https://resume.infy.uk/)** - Իմ անձնական պորտֆոլիոն   <br>
-🔹 **[Start](https://github.com/SayatAleqsanyan/BeeOnCode)** - Start  <br>
-🔹 **[my-App](https://github.com/SayatAleqsanyan/React)** - React start  
+🔹 **[Start](https://github.com/SayatAleqsanyan/BeeOnCode)** - Start web development  (GIT)  <br>
+🔹 **[my-App](https://github.com/SayatAleqsanyan/React)** - React (GIT) 
 
 ---
 

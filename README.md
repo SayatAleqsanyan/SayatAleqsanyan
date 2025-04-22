@@ -49,13 +49,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayatAleqsanyan&layout=compact&theme=radical" width="48%" alt="Most Used Languages">
 </p>
 
+<!--
 ---
 
-## 📌 Վերջին նախագծերը  
-🔹 **[about me (CV)](https://resume.infy.uk/)** - Իմ անձնական պորտֆոլիոն   <br>
+<!-- ## 📌 Վերջին նախագծերը  
 🔹 **[Start](https://github.com/SayatAleqsanyan/BeeOnCode)** - Start web development  (GIT)  <br>
 🔹 **[my-App](https://github.com/SayatAleqsanyan/React)** - React (GIT) 
-
+-->
 ---
 
 ## 💼 Ինչու ինձ ընտրել  

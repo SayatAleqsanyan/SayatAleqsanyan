@@ -12,7 +12,7 @@
 
 <ol>
   <ul>  🎨 **Full-Stack ծրագրավորող եմ**, ով սիրում է զբաղվել UI/UX դիզայնով եւ back-end լուծումներով  </ul>  
-  <ul>  💻 **Հմտություններ:** React, Next.js, JavaScript, Node.js, Tailwind CSS, Databases  </ul>  
+  <ul>  💻 **Հմտություններ:** React, Next.js, JavaScript, Node.js, Tailwind CSS, PHP, Databases  </ul>  
   <ul>  📚 **Նպատակ:** Ստեղծել արագ, մատչելի եւ user-friendly վեբ հավելվածներ  </ul>  
   <ul>  🌍 **Աշխատանքի որոնում եմ**՝ որպես **Junior Full-Stack Developer**  </ul>  
   <ul>  📩 **Բաց եմ համագործակցության համար!**  </ul>  
@@ -30,12 +30,13 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🔹 Backend  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![OOP](https://img.shields.io/badge/OOP-007ACC?style=for-the-badge&logo=codeigniter&logoColor=white)  
-![Databases](https://img.shields.io/badge/Databases-007ACC?style=for-the-badge&logo=mysql&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-007ACC?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Databases](https://img.shields.io/badge/Databases-007ACC?style=for-the-badge&logo=mysql&logoColor=white)
+
 <!--
 ### 🔹 Programming  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![C#]()  
 -->
 
 ### 🔹 Tools  

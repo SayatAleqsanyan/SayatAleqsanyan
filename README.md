@@ -2,7 +2,6 @@
 
 <h1 align="center">Բարեւ, ես Սայաթ Ալեքսանյան եմ! 👋</h1>
 
----
 <p align="center">
   <b>🚀 Full-Stack Developer | Passionate About UI/UX & Web Technologies</b>
 </p>

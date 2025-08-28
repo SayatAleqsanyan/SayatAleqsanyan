@@ -73,7 +73,7 @@
 ### C# Programming Course - PraXIt  **1 ամիս**  
 - Ինտենսիվ դասընթաց C ծրագրավորման հիմունքների, օբյեկտ-կողմնորոշված ծրագրավորման եւ ալգորիթմերի վերաբերյալ  
 
-### Front-End Programming Course - ArmTech  **6 ամիս**  
+### Front-End Programming Course - ArmTech  **3 ամիս**  
 - Համապարփակ դասընթաց HTML, CSS, JavaScript եւ ժամանակակից front-end ֆրեյմվորքերի վերաբերյալ  
 
 ---
